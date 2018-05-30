@@ -1,8 +1,9 @@
-#pull request模板
+# pull request模板
 
 
 closes #
-*请在#后面填写文章对于issue编号*
+  
+*请在\#后面填写文章对应issue编号*
 
 ----
 
